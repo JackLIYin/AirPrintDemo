@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AirPrintTest1.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E62FB4A21C3A603700DD3D61</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E62FB4BB1C3A603800DD3D61</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E62FB4C61C3A603800DD3D61</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
