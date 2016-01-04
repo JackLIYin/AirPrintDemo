@@ -15,6 +15,7 @@
 		E62FB4B61C3A603700DD3D61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E62FB4B41C3A603700DD3D61 /* LaunchScreen.storyboard */; };
 		E62FB4C11C3A603800DD3D61 /* AirPrintTest1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = E62FB4C01C3A603800DD3D61 /* AirPrintTest1Tests.m */; };
 		E62FB4CC1C3A603800DD3D61 /* AirPrintTest1UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E62FB4CB1C3A603800DD3D61 /* AirPrintTest1UITests.m */; };
+		E62FB4DB1C3A6B2600DD3D61 /* YLPrintController.m in Sources */ = {isa = PBXBuildFile; fileRef = E62FB4DA1C3A6B2600DD3D61 /* YLPrintController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		E62FB4C71C3A603800DD3D61 /* AirPrintTest1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AirPrintTest1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E62FB4CB1C3A603800DD3D61 /* AirPrintTest1UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AirPrintTest1UITests.m; sourceTree = "<group>"; };
 		E62FB4CD1C3A603800DD3D61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E62FB4D91C3A6B2600DD3D61 /* YLPrintController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLPrintController.h; sourceTree = "<group>"; };
+		E62FB4DA1C3A6B2600DD3D61 /* YLPrintController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLPrintController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				E62FB4AA1C3A603700DD3D61 /* AppDelegate.m */,
 				E62FB4AC1C3A603700DD3D61 /* ViewController.h */,
 				E62FB4AD1C3A603700DD3D61 /* ViewController.m */,
+				E62FB4D91C3A6B2600DD3D61 /* YLPrintController.h */,
+				E62FB4DA1C3A6B2600DD3D61 /* YLPrintController.m */,
 				E62FB4AF1C3A603700DD3D61 /* Main.storyboard */,
 				E62FB4B21C3A603700DD3D61 /* Assets.xcassets */,
 				E62FB4B41C3A603700DD3D61 /* LaunchScreen.storyboard */,
@@ -270,6 +275,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E62FB4DB1C3A6B2600DD3D61 /* YLPrintController.m in Sources */,
 				E62FB4AE1C3A603700DD3D61 /* ViewController.m in Sources */,
 				E62FB4AB1C3A603700DD3D61 /* AppDelegate.m in Sources */,
 				E62FB4A81C3A603700DD3D61 /* main.m in Sources */,
